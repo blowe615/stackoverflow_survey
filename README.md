@@ -1,9 +1,9 @@
 ## Table of Contents
-* [Installations]
-* [Project Motivation]
-* [File Descriptions]
-* [Results]
-* [Acknowledgements]
+* [Installations](#installations)
+* [Project Motivation](#project-motivation)
+* [File Descriptions](#file-descriptions)
+* [Results](#results)
+* [Acknowledgements](#acknowledgements)
 
 ## Installations
 All of the following packages were used for this project and can be found in the standard Anaconda distribution for Python 3.7:
@@ -15,7 +15,7 @@ All of the following packages were used for this project and can be found in the
 * Seaborn
 
 ## Project Motivation
-As part of Udacity's Data Science Nanodegree program, I was tasked with selecting a dataset and investigating it using the CRISP-DM process before sharing my results in a blog post and public repository.  I chose to investigate the 2017 Stack Overflow developer survey results and asked the following questions:
+As part of Udacity's [Data Scientist Nanodegree](https://www.udacity.com/school-of-data-science) program, I was tasked with selecting a dataset and investigating it using the CRISP-DM process before sharing my results in a blog post and public repository.  I chose to investigate the 2017 Stack Overflow developer survey results and asked the following questions:
 1. What developer types overlap with data scientists?
 2. What types of education do data scientists recommend?
 3. What effect does being a data scientist have on salary?
@@ -30,4 +30,4 @@ There are three files in this repository: two data files and the Jupyter noteboo
 Please see my blog post here (link) for the main results of my analysis.
 
 ## Acknowledgements
-This project would not have been possible without Stack Overflow collecting and sharing this data.  I accessed the data through Kaggle (link).  I also found Stack Overflow posts and the documentation for each of the python packages extremely helpful in completing this project.
+This project would not have been possible without Stack Overflow collecting and sharing this data.  I accessed the data through [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017).  I also found Stack Overflow posts and the documentation for each of the python packages extremely helpful in completing this project.
