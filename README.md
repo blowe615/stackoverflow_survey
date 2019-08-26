@@ -27,7 +27,7 @@ There are three files in this repository: two data files and the Jupyter noteboo
 * `Investigating How Data Scientists Answered the Stack Overflow Survey.ipynb`: Jupyter notebook containing all of my work on this dataset.  This was a working notebook, so it contains all of the data exploration, cleaning, analysis, and results, as well as my thought process throughout the project.
 
 ## Results
-Please see my blog post here (link) for the main results of my analysis.
+Please see my blog post [here](https://medium.com/@brandon.lowe615/what-sets-data-scientists-apart-a5f0ddf72d1?sk=502ac8b2bb658ce928c6ed54fe6762de) for the main results of my analysis.
 
 ## Acknowledgements
 This project would not have been possible without Stack Overflow collecting and sharing this data.  I accessed the data through [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017).  I also found Stack Overflow posts and the documentation for each of the python packages extremely helpful in completing this project.
